@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amresh Thakur</h1>
 
 - 🌱 I’m currently exploring Backend development and DevOps
-- 💌 How to reach me **amreshthakur@gmail.com**
+- 💌 How to reach me **amresh.csit@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
