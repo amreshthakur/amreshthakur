@@ -5,7 +5,7 @@
 </p>
 
 * 🌱 I’m currently exploring Backend Development and DevOps
-* 💌 How to reach me: <a href="mailto:amreshthakur@gmail.com"><strong>[amreshthakur@gmail.com](mailto:amreshthakur@gmail.com)</strong></a>
+* 💌 How to reach me: <a href="mailto:amresh.csit@gmail.com"><strong>[amreshthakur@gmail.com](mailto:amresh.csit@gmail.com)</strong></a>
 
 <h3 align="left">Connect with me:</h3>
 
